@@ -1,0 +1,48 @@
+# section information
+section:
+  name: About
+  id: about
+  enable: true
+  weight: 1
+  showOnNavbar: true
+  template: sections/about.html
+
+# your designation
+designation: People Data Strategist
+# your company information
+company:
+  name: TNTP
+  url: "https://tntp.org"
+
+# your resume. this file path should be relative to you "static" directory
+# Dreprecated. Use resourceLinks instead.
+# resume: "files/resume.pdf"
+
+# a summary about you
+summary: 'Over the past 10+ years, I have built a reputation for turning complex people data into strategic insight—and for building the systems, teams, and tools that make those insights repeatable and scalable. I started my career in the classroom, moved into research then analytics, and most recently led the People Analytics function at TNTP. There, I built our enterprise data warehouse, launched a cross-functional KPI framework, designed org-wide survey strategies, and delivered executive-ready reporting that shaped real-time decisions.'
+
+# your social links
+# give as many as you want. use font-awesome for the icons.
+socialLinks:
+- name: Email
+  icon: "fas fa-envelope"
+  url: "dpashouwer@gmail.com"
+
+- name: LinkedIn
+  icon: "fab fa-linkedin"
+  url: "https://www.linkedin.com/in/dpashouwer/"
+
+- name: Github
+  icon: "fab fa-github"
+  url: "https://www.github.com/example"
+
+# You can put custom buttons to link your relevant resources.
+# For example, you can put link for your resume.
+resourceLinks:
+- title: "My Resume"
+  url: "files/dustin.pashouwer_resume.pdf"
+
+# Show your badges
+# You can show your verifiable certificates from https://www.credly.com.
+# You can also show a circular bar indicating the level of expertise on a certain skill
+# badges:

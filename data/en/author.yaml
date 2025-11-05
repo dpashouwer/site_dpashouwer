@@ -1,0 +1,19 @@
+# some information about you
+name: "Dustin Pashouwer"
+nickname: "Dustin"
+# greeting message before your name. it will default to "Hi! I am" if not provided
+greeting: "Hi, I am"
+image: "images/author/dustin.pashouwer_headshot.jpeg"
+# give your some contact information. they will be used in the footer
+contactInfo:
+  email: "dpashouwer@gmail.com"
+  github: dpashouwer
+  linkedin: dpashouwer
+
+# some summary about what you do
+summary:
+  - I am a People Data Strategist
+  - I build analytics systems from scratch
+  - I transform complex data into strategic insights
+  - I lead high-performing analytics teams
+  - I design KPI frameworks and data warehouses

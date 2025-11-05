@@ -1,0 +1,119 @@
+# section information
+section:
+  name: Experiences
+  id: experiences
+  enable: true
+  weight: 3
+  showOnNavbar: true
+  # Can optionally hide the title in sections
+  # hideTitle: true 
+
+# Your experiences
+experiences:
+- company:
+    name: TNTP
+    url: "https://tntp.org"
+    location: Remote
+    logo: /images/sections/experiences/tntp.png
+    # Can optionally show a different logo for dark theme
+    # darkLogo: /images/sections/experiences/tntp.png
+    # company overview
+    overview: TNTP is a national nonprofit organization working to end educational inequality by ensuring all students have access to excellent teaching.
+  positions:
+  - designation: Director, People Analytics
+    start: Nov 2017
+    end: Jun 2025
+    # give some points about what was your responsibilities at the company.
+    responsibilities:
+    - Established and led People Analytics function, defining the long-term vision, strategy, and roadmap to align with organization priorities and workforce needs
+    - Led the development and reporting of the organization's People KPIs and key metrics aligned with strategic priorities, enabling consistent performance tracking and improved executive decision-making
+    - Designed and implemented an enterprise-wide People KPI framework, enabling consistent, cross-functional performance tracking and supporting data-driven decision-making by leadership
+    - Built a centralized People Data Warehouse in Snowflake, developing foundational data governance practices, a data dictionary, and automated reporting pipelines to improve accuracy and accessibility of HR data
+    - Led TNTP's enterprise staff survey strategy, aligning content with organizational priorities; facilitated leadership action planning cycles and authored all-staff communications
+    - Partnered cross-functionally with Leadership, People Division, Workforce, and Central Operations teams to deliver actionable insights that informed strategic workforce planning
+    - Built and managed a high-performing People Analytics team, providing day-to-day guidance and long-term development
+
+  - designation: Director, Analytics Consulting
+    start: Nov 2017
+    end: Nov 2017
+    responsibilities:
+    - Led project teams in designing and implementing customized solutions for internal and external clients
+    - Led teams in designing and implementation of performance-based compensation and career pathways models for multiple education organizations
+    - Developed a Data Analytics Hub for 50+ analytics staff, providing comprehensive guidance for analysis planning, data collection, quantitative and qualitative analysis, and data storytelling and visualization
+    - Implemented innovative hiring systems and processes as Hiring Manager, including role competency development, hiring exercises, interview protocols, and equitable scoring systems
+
+  - designation: Senior Data Analyst
+    start: Nov 2017
+    end: Nov 2017
+    responsibilities:
+    - Developed talent framework and diagnostic product that allows school systems to understand their talent opportunities
+    - Supported multiple districts in their move to performance-based compensation systems; including analysis of financial sustainability
+    - Managed classroom observation data collection and reported out findings used to develop academic strategy
+
+- company:
+    name: Denver Public Schools
+    url: "https://www.dpsk12.org"
+    location: Denver, CO
+    logo: /images/sections/experiences/dps.png
+    # Can optionally show a different logo for dark theme
+    # darkLogo: /images/sections/experiences/dps.png
+    overview: Denver Public Schools is the public school system in the City and County of Denver, Colorado, serving over 90,000 students across 200+ schools.
+  positions:
+  - designation: Data Analyst
+    start: Oct 2015
+    end: Oct 2017
+    responsibilities:
+    - Developed analyses and reports that support team's data-driven decision making, including a teacher preparation program analysis of placement patterns and outcome measures used to drive DPS teacher pathway strategy
+    - Fulfilled ongoing data requests from DPS leadership, research partners, and public entities
+
+  - designation: Strategic Compensation Analyst
+    start: Oct 2015
+    end: Oct 2017
+    responsibilities:
+    - Analyzed Denver Public School's ProComp compensation system and developed a knowledge base around strategic compensation for teachers
+    - Developed a report analyzing the distribution of ProComp funds as well as the impact of ProComp incentives on attraction and retention of effective and distinguished teachers
+    - Created Strategic Compensation Wiki synthesizing academic literature and case studies around strategic compensation
+
+- company:
+    name: UW-Madison/University of Chicago
+    url: "https://www.uchicago.edu"
+    location: Chicago, IL
+    logo: /images/sections/experiences/uchicago.png
+    # Can optionally show a different logo for dark theme
+    # darkLogo: /images/sections/experiences/uchicago.png
+    overview: Research collaboration between University of Wisconsin-Madison and University of Chicago focused on behavioral economics and education research.
+  positions:
+  - designation: Research Specialist
+    start: May 2014
+    end: Aug 2015
+    responsibilities:
+    - Developed and organized non-cognitive intervention/field experiment for disadvantaged Chicago middle-schools students focusing on goal setting and building skills such as grit and perseverance
+    - Researched and wrote an ~80 page literature review on the applications of behavioral economics to charitable giving for the Science of Philanthropy grant proposal
+
+- company:
+    name: Beijing Royal School
+    url: "#"
+    location: Beijing, China
+    logo: /images/sections/experiences/brs.png
+    overview: Private international school for elite Chinese students preparing to attend top American and British universities abroad.
+  positions:
+  - designation: AP Economics Teacher
+    start: Aug 2012
+    end: Aug 2013
+    responsibilities:
+    - Developed curriculum and taught AP Microeconomics, Macroeconomics, and IGCSE O-Level Economics
+    - Led 78% of AP Microeconomics and 67% of AP Macroeconomics students to 4 or 5 level proficiency on AP Examinations
+
+- company:
+    name: Teach for America / Kau High School
+    url: "https://www.teachforamerica.org"
+    location: Pahala, HI
+    logo: /images/sections/experiences/tfa.png
+    overview: Member of highly selective national service corps of recent college graduates who commit two years to teach in under-resourced public schools.
+  positions:
+  - designation: High School Mathematics Teacher
+    start: Aug 2010
+    end: Aug 2012
+    responsibilities:
+    - Developed rigorous standards-based curriculum for five Kau High School courses - Math Workshop, Algebra 1, Geometry, Algebra 2, and Trigonometry
+    - Led eighteen Algebra 2 students to attain proficiency on the Algebra 2 End of Year Exam; the first students from Kau High School to pass in school history

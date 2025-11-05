@@ -1,0 +1,71 @@
+# section information
+section:
+  name: Skills
+  id: skills
+  enable: true
+  weight: 2
+  showOnNavbar: true
+  filter: true
+  # Can optionally hide the title in sections
+  # hideTitle: true
+
+# filter buttons
+buttons:
+- name: All
+  filter: "all"
+- name: Analytics & Programming
+  filter: "analytics"
+- name: Data Platform
+  filter: "platform"
+- name: Visualization & Reporting
+  filter: "visualization"
+- name: People Systems
+  filter: "systems"
+
+# Your Skills.
+# Give a summary of you each skill in the summary section.
+skills:
+- name: R
+  logo: /images/sections/skills/cloud.png
+  summary: "Expert in R for data analysis and statistical modeling. Proficient with tidyverse, tidymodels, and ggplot2 for data manipulation, modeling, and visualization."
+  categories: ["analytics"]
+  url: "https://www.r-project.org/"
+
+- name: SQL
+  logo: /images/sections/skills/cloud.png
+  summary: "Advanced SQL expertise for complex queries, data transformation, and analysis. Experienced in writing efficient queries for large-scale data warehouses."
+  categories: ["analytics"]
+
+- name: Snowflake
+  logo: /images/sections/skills/cloud.png
+  summary: "Built and managed enterprise People Data Warehouse in Snowflake. Developed data governance practices, data dictionary, and automated reporting pipelines."
+  categories: ["platform"]
+  url: "https://www.snowflake.com/"
+
+- name: Tableau
+  logo: /images/sections/skills/cloud.png
+  summary: "Creating executive dashboards and interactive visualizations to communicate insights. Experienced in designing intuitive, data-driven reports."
+  categories: ["visualization"]
+  url: "https://www.tableau.com/"
+
+- name: Looker
+  logo: /images/sections/skills/cloud.png
+  summary: "Developed business intelligence dashboards and reports in Looker. Created LookML models for consistent metrics across the organization."
+  categories: ["visualization"]
+  url: "https://www.looker.com/"
+
+- name: Qualtrics
+  logo: /images/sections/skills/cloud.png
+  summary: "Led enterprise-wide survey strategy using Qualtrics. Designed employee engagement surveys and managed survey lifecycle from design to reporting."
+  categories: ["systems"]
+  url: "https://www.qualtrics.com/"
+
+- name: Workday
+  logo: /images/sections/skills/cloud.png
+  summary: "Experienced with Workday reporting and analytics. Built custom reports and integrated HRIS data into analytics workflows."
+  categories: ["systems"]
+  url: "https://www.workday.com/"
+
+
+
+
